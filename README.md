@@ -1,4 +1,4 @@
-#Hi, I’m Tayo Arogundade 👋
+Hi, I’m Tayo Arogundade 
 
 AI Business Solutions Engineer | Python | Data Analytics | Streamlit | Generative AI
 
