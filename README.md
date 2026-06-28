@@ -5,8 +5,22 @@ AI Business Solutions Engineer | Python | Data Analytics | Streamlit | Generativ
 Welcome to my GitHub! I’m passionate about using artificial intelligence, data analytics, and software development to solve real-world business problems and improve customer experiences.
 
 After a successful career in real estate, operations, and customer service, I’m transitioning into technology and building AI-powered applications that combine technical skills with business insight.
+## 🚀 Currently Building
 
-🚀 Featured Projects
+- 🌍 AirLogic – AI-powered air quality assistant
+- 🤖 Conversational AQI Health Chatbot
+- 📊 Business analytics dashboards with Python & Streamlit
+- 🧠 Expanding my skills in machine learning and generative AI
+
+## 🚀 Featured Projects
+
+🌍 AirLogic
+
+📊 TechFlow Support Analytics
+
+## 🛠 Technical Skills
+...
+
 
 🌍 AirLogic
 
