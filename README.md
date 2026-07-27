@@ -1,5 +1,5 @@
 Hi, I’m Tayo Arogundade 
-
+Innovation Fellow at The Knowledge House (TKH), building AI-powered business solutions with Python, SQL, Streamlit, and Generative AI.
 AI Business Solutions Engineer | Python | Data Analytics | Streamlit | Generative AI
 
 Welcome to my GitHub! I’m passionate about using artificial intelligence, data analytics, and software development to solve real-world business problems and improve customer experiences.
@@ -10,12 +10,12 @@ After a successful career in real estate, operations, and customer service, I’
 - 🌍 AirLogic – AI-powered air quality assistant
 - 🤖 Conversational AQI Health Chatbot
 - 📊 Business analytics dashboards with Python & Streamlit
-- 🧠 Expanding my skills in machine learning and generative AI
+- 🧠 Building AI-powered business applications with Python, APIs, Streamlit, and Large Language Models (LLMs
 
 ## 🚀 Featured Projects
 
 🌍 AirLogic
-
+🤖 AI Study Buddy using the DeepSeek API
 📊 TechFlow Support Analytics
 
 ## 🛠 Technical Skills
