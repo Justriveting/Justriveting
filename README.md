@@ -10,7 +10,7 @@ I'm especially interested in AI Business Solutions, Generative AI, Intelligent A
 ## 🚀 Featured Projects
 
 - 🌍 AirLogic – AI-powered air quality assistant
-- 
+  
 - An AI powered application that translates real-time air quality and pollution data into clear, actionable information and personalized guidance.
 
 - Technologies: Python • Streamlit • REST APIs • Generative AI • Pandas
