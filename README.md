@@ -9,16 +9,16 @@ I'm especially interested in AI Business Solutions, Generative AI, Intelligent A
 
 ## 🚀 Featured Projects
 
-- 🌍 AirLogic – AI-powered air quality assistant
+🌍 AirLogic – AI-powered air quality assistant
   
-- An AI powered application that translates real-time air quality and pollution data into clear, actionable information and personalized guidance.
+An AI powered application that translates real-time air quality and pollution data into clear, actionable information and personalized guidance.
 
-- Technologies: Python • Streamlit • REST APIs • Generative AI • Pandas
+  Technologies: Python • Streamlit • REST APIs • Generative AI • Pandas
 
-- Highlights: API integration, AI-generated recommendations, interactive Streamlit interface, data visualization, and real-world environmental data.
+Highlights: API integration, AI-generated recommendations, interactive Streamlit interface, data visualization, and real-world environmental data.
 
 
-- 🤖 Customer Service RAG Assistant
+🤖 Customer Service RAG Assistant
 
 A retrieval-augmented generation application designed to answer customer-support questions using information retrieved from a dedicated knowledge base rather than relying solely on an LLM’s general knowledge.
 
