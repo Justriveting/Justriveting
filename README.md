@@ -75,4 +75,3 @@ I’m pursuing opportunities in AI Business Solutions, AI Solutions Engineering,
 🔗 Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/tayoarogundade
-
