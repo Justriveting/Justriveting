@@ -1,4 +1,4 @@
-Hi, I’m Tayo Arogundade 
+# Hi, I’m Tayo Arogundade  
 AI Business Solutions Engineer | Generative AI | Python | RAG | AI Agents
 I'm an Innovation Fellow at The Knowledge House (TKH), where I build AI-powered applications designed to solve real-world business problems.
 
@@ -9,7 +9,7 @@ I'm especially interested in AI Business Solutions, Generative AI, Intelligent A
 
 ## 🚀 Featured Projects
 
-🌍 AirLogic – AI-powered air quality assistant
+### 🌍 AirLogic – AI-powered air quality assistant
   
 An AI powered application that translates real-time air quality and pollution data into clear, actionable information and personalized guidance.
 
@@ -18,7 +18,7 @@ An AI powered application that translates real-time air quality and pollution da
 Highlights: API integration, AI-generated recommendations, interactive Streamlit interface, data visualization, and real-world environmental data.
 
 
-🤖 Customer Service RAG Assistant
+### 🤖 Customer Service RAG Assistant
 
 A retrieval-augmented generation application designed to answer customer-support questions using information retrieved from a dedicated knowledge base rather than relying solely on an LLM’s general knowledge.
 
@@ -35,7 +35,7 @@ Technologies: Python • LLMs • AI Agents • Prompt Engineering • Agent Orc
 Status: In development as part of the TKH Innovation Fellowship Phase 2 Technical Employment Preparation Project.
 
 
-🛠️ Business Solution Agent
+### 🛠️ Business Solution Agent
 
 An AI business agent that uses tool calling to determine when external functions or business resources are needed to complete a task.
 
@@ -59,7 +59,7 @@ Streamlit • LangChain • ChromaDB • REST APIs • LLM APIs
 Development Tools
 Git • GitHub • VS Code • Jupyter Notebook • Virtual Environments • Environment Variables
 
-🌱 Currently Expanding My Skills
+## 🌱 Currently Expanding My Skills
 
 • Multi-Agent AI Systems
 • Agent Orchestration
@@ -68,10 +68,10 @@ Git • GitHub • VS Code • Jupyter Notebook • Virtual Environments • Env
 • AI Business Solution Architecture
 
 
-🎯 Career Focus
+## 🎯 Career Focus
 
 I’m pursuing opportunities in AI Business Solutions, AI Solutions Engineering, and AI Solutions Consulting, where I can combine technical development, business strategy, problem-solving, and client-facing experience to help organizations implement practical AI solutions.
 
-🔗 Connect With Me
+## 🔗 Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/tayoarogundade
