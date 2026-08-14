@@ -13,9 +13,9 @@ I'm especially interested in AI Business Solutions, Generative AI, Intelligent A
   
 An AI-powered application that translates real-time air quality and pollution data into clear, actionable information and personalized guidance.
 
-  # Technologies: Python • Streamlit • REST APIs • Generative AI • Pandas
+  **Technologies: Python • Streamlit • REST APIs • Generative AI • Pandas
 
-# Highlights: API integration, AI-generated recommendations, interactive Streamlit interface, data visualization, and real-world environmental data.
+  **Highlights: API integration, AI-generated recommendations, interactive Streamlit interface, data visualization, and real-world environmental data.
 
 
 ### 🤖 Customer Service RAG Assistant
