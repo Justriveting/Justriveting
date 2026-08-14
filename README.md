@@ -15,33 +15,33 @@ An AI-powered application that translates real-time air quality and pollution da
 
   **Technologies:** Python • Streamlit • REST APIs • Generative AI • Pandas
 
-**Highlights:** API integration, AI-generated recommendations, interactive Streamlit interface, data visualization, and real-world environmental data.
+  **Highlights:** API integration, AI-generated recommendations, interactive Streamlit interface, data visualization, and real-world environmental data.
 
 
 ### 🤖 Customer Service RAG Assistant
 
 A retrieval-augmented generation application designed to answer customer-support questions using information retrieved from a dedicated knowledge base rather than relying solely on an LLM’s general knowledge.
 
-# Technologies: Python • ChromaDB • Vector Search • RAG • LLMs • Streamlit • DeepSeek API
+**Technologies:** Python • ChromaDB • Vector Search • RAG • LLMs • Streamlit • DeepSeek API
 
-# Highlights: Document retrieval, semantic search, grounded LLM responses, vector database integration, and conversational UI.
+**Highlights:** Document retrieval, semantic search, grounded LLM responses, vector database integration, and conversational UI.
 
 ### 🧠 Multi-Agent Business Solution — Phase 2 TEPP
 
 A multi-agent AI system designed to improve a real-world business workflow while maintaining human oversight and accountability.
 
-# Technologies: Python • LLMs • AI Agents • Prompt Engineering • Agent Orchestration • Human-in-the-Loop Design
+**Technologies:** Python • LLMs • AI Agents • Prompt Engineering • Agent Orchestration • Human-in-the-Loop Design
 
-# Status: In development as part of the TKH Innovation Fellowship Phase 2 Technical Employment Preparation Project.
+**Status:** In development as part of the TKH Innovation Fellowship Phase 2 Technical Employment Preparation Project.
 
 
 ### 🛠️ Business Solution Agent
 
 An AI business agent that uses tool calling to determine when external functions or business resources are needed to complete a task.
 
-# Technologies: Python • LLM APIs • Tool Calling • LangChain • SQLite • Environment Configuration
+**Technologies:** Python • LLM APIs • Tool Calling • LangChain • SQLite • Environment Configuration
 
-# Highlights: Agent decision-making, function/tool mapping, API integration, modular architecture, and business workflow automation.
+**Highlights:** Agent decision-making, function/tool mapping, API integration, modular architecture, and business workflow automation.
 
 
 
