@@ -46,6 +46,19 @@ A React and TypeScript dashboard that transforms product catalog data into actio
 **Highlights:** Product-quality metrics, category filtering, automated low-information flagging, data aggregation, reusable components, and a responsive business-facing dashboard.
 
 
+
+### 🎓 AI Study Buddy
+
+An AI-powered Python tutoring assistant that explores how prompt design, model configuration, structured outputs, and error handling affect the reliability of LLM-powered applications.
+
+**Technologies:** Python • DeepSeek API • python-dotenv • JSON • Git & GitHub
+
+**Highlights:** Prompt engineering with a tutor persona, temperature experimentation, structured JSON output, API integration, JSON parsing, automatic retry behavior, and defensive error handling.
+
+
+## 🛠️ Technical Skills
+
+
 ## 🛠️ Technical Skills
 
 Programming & Data
