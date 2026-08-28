@@ -58,9 +58,6 @@ An AI-powered Python tutoring assistant that explores how prompt design, model c
 
 ## 🛠️ Technical Skills
 
-
-## 🛠️ Technical Skills
-
 Programming & Data
 Python • SQL • SQLite • Pandas • Data Analysis • Data Visualization
 
