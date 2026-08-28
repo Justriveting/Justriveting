@@ -18,7 +18,7 @@ An AI-powered application that translates real-time air quality and pollution da
   **Highlights:** API integration, AI-generated recommendations, interactive Streamlit interface, data visualization, and real-world environmental data.
 
 
-### 🤖 Customer Service RAG Assistant
+### 🤖 KeyNest Customer Service RAG Assistant
 
 A retrieval-augmented generation application designed to answer customer-support questions using information retrieved from a dedicated knowledge base rather than relying solely on an LLM’s general knowledge.
 
@@ -26,23 +26,24 @@ A retrieval-augmented generation application designed to answer customer-support
 
 **Highlights:** Document retrieval, semantic search, grounded LLM responses, vector database integration, and conversational UI.
 
-### 🧠 Multi-Agent Business Solution — Phase 2 TEPP
 
-A multi-agent AI system designed to improve a real-world business workflow while maintaining human oversight and accountability.
+### 🧠 Northstar Support — Multi-Agent Customer Support System
 
-**Technologies:** Python • LLMs • AI Agents • Prompt Engineering • Agent Orchestration • Human-in-the-Loop Design
+A multi-agent AI system designed to triage customer support tickets, route them to specialized agents, evaluate responses through a critic workflow, and preserve human oversight for sensitive or uncertain cases.
 
-**Status:** In development as part of the TKH Innovation Fellowship Phase 2 Technical Employment Preparation Project.
+**Technologies:** Python • LangGraph • LLMs • AI Agents • RAG • ChromaDB • Prompt Engineering • Agent Orchestration • Human-in-the-Loop
+
+**Highlights:** Multi-agent orchestration, specialist routing, shared-state workflow, RAG-powered retrieval, critic/retry logic, human-review escalation, audit trail, and end-to-end workflow integration.
 
 
-### 🛠️ Business Solution Agent
 
-An AI business agent that uses tool calling to determine when external functions or business resources are needed to complete a task.
+#### 📊 TechFlow — Product Information Quality Dashboard
 
-**Technologies:** Python • LLM APIs • Tool Calling • LangChain • SQLite • Environment Configuration
+A React and TypeScript dashboard that transforms product catalog data into actionable business insights by monitoring information quality, identifying gaps, and automatically flagging products that require enrichment.
 
-**Highlights:** Agent decision-making, function/tool mapping, API integration, modular architecture, and business workflow automation.
+**Technologies:** TypeScript • React • Vite • Tailwind CSS • shadcn/ui • React Hooks • Git & GitHub
 
+**Highlights:** Product-quality metrics, category filtering, automated low-information flagging, data aggregation, reusable components, and a responsive business-facing dashboard.
 
 
 ## 🛠️ Technical Skills
